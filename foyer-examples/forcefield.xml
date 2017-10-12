@@ -2,17 +2,17 @@
     <AtomTypes>
         <Type name="opls_135" def="O"
               class="CT" element="C" mass="12.01100" desc="alkane CH3"
-              doi="10.1021/ja9621760" overrides="opls_136"/>
+              doi="10.1021/ja9621760"/>
 
         <Type name="opls_136" def="O"
               class="CT" element="C" mass="12.01100" desc="alkane CH2"
               doi="10.1021/ja9621760"/>
 
-        <Type name="opls_138" def="O"
+        <Type name="opls_138" def="[C;X4](H)(H)(H)H"
               class="CT" element="C" mass="12.01100" desc="alkane CH4"
-              doi="10.1021/ja9621760" overrides="opls_135,opls_136"/>
+              doi="10.1021/ja9621760"/>
 
-        <Type name="opls_140" def="O"
+        <Type name="opls_140" def="H[C;X4]"
               class="HC" element="H" mass="1.00800" desc="alkane H"
               doi="10.1021/ja9621760"/>
     </AtomTypes>
