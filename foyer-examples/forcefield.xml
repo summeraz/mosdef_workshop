@@ -1,14 +1,14 @@
 <ForceField>
     <AtomTypes>
-        <Type name="opls_135" def="[C;X4](H)(H)H"
+        <Type name="opls_135" def="F"
               class="CT" element="C" mass="12.01100" desc="alkane CH3, C"
               doi="10.1021/ja9621760"/>
 
-        <Type name="opls_136" def="[C;X4](H)H"
+        <Type name="opls_136" def="P"
               class="CT" element="C" mass="12.01100" desc="alkane CH2, C"
               doi="10.1021/ja9621760"/>
 
-        <Type name="opls_138" def="[C;X4](H)(H)(H)H"
+        <Type name="opls_138" def="O"
               class="CT" element="C" mass="12.01100" desc="alkane CH4, C"
               doi="10.1021/ja9621760"/>
 
