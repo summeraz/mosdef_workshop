@@ -16,4 +16,6 @@ def test_atomtyping(mol2_file):
     structure = pmd.load_file(mol2_file, structure=True)
     atomtype(structure, FORCEFIELD)
 
-
+if __name__ == "__main__":
+    structure = pmd.load_file(mol2_file, structure=True)
+    atomtype(structure, FORCEFIELD)
